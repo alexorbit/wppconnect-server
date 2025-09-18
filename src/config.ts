@@ -1,8 +1,8 @@
 import { ServerOptions } from './types/ServerOptions';
 
 export default {
-  secretKey: 'THISISMYSECURETOKEN',
-  host: 'http://localhost',
+  secretKey: 'Hothot#1606',
+  host: 'https://wppconnect-server-wcto.onrender.com',
   port: '21465',
   deviceName: 'WppConnect',
   poweredBy: 'WPPConnect-Server',
